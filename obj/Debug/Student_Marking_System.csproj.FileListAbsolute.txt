@@ -1,0 +1,14 @@
+C:\Users\mazhar\source\repos\Student_Marking_System\bin\Debug\Student_Marking_System.exe.config
+C:\Users\mazhar\source\repos\Student_Marking_System\bin\Debug\Student_Marking_System.exe
+C:\Users\mazhar\source\repos\Student_Marking_System\bin\Debug\Student_Marking_System.pdb
+C:\Users\mazhar\source\repos\Student_Marking_System\obj\Debug\Student_Marking_System.csprojAssemblyReference.cache
+C:\Users\mazhar\source\repos\Student_Marking_System\obj\Debug\Student_Marking_System.Entry.resources
+C:\Users\mazhar\source\repos\Student_Marking_System\obj\Debug\Student_Marking_System.Form1.resources
+C:\Users\mazhar\source\repos\Student_Marking_System\obj\Debug\Student_Marking_System.marks.resources
+C:\Users\mazhar\source\repos\Student_Marking_System\obj\Debug\Student_Marking_System.Properties.Resources.resources
+C:\Users\mazhar\source\repos\Student_Marking_System\obj\Debug\Student_Marking_System.csproj.GenerateResource.cache
+C:\Users\mazhar\source\repos\Student_Marking_System\obj\Debug\Student_Marking_System.csproj.CoreCompileInputs.cache
+C:\Users\mazhar\source\repos\Student_Marking_System\obj\Debug\Student_Marking_System.exe
+C:\Users\mazhar\source\repos\Student_Marking_System\obj\Debug\Student_Marking_System.pdb
+C:\Users\mazhar\source\repos\Student_Marking_System\obj\Debug\Student_Marking_System.search_result.resources
+C:\Users\mazhar\source\repos\Student_Marking_System\obj\Debug\Student_Marking_System.show_all_data.resources
